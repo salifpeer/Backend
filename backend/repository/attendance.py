@@ -1,6 +1,6 @@
 import json
 
-path = "database/attendance.json"
+path = "Database/attendance.json"
 
 
 def load_attendance():
