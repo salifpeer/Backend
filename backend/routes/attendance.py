@@ -16,7 +16,6 @@ def checkin(employee_id: str):
  
     return attendance.checkin(employee_id)
  
-
  
 @router.post("/checkout")
 def checkout(employee_id: str):
