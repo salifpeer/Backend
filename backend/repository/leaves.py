@@ -1,6 +1,6 @@
 import json
 
-FILE_PATH = "database/leaves.json"
+FILE_PATH = "Database/leaves.json"
 
 
 def load_leaves():

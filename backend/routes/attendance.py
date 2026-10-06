@@ -16,9 +16,6 @@ def checkin(employee_id: str):
  
     return attendance.checkin(employee_id)
  
-router = APIRouter(
-    
-)
 
  
 @router.post("/checkout")
